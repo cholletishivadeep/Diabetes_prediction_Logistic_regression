@@ -161,3 +161,4 @@ The Streamlit application accepts the patient's information and displays:
 **Shivadeep**
 
 This project was developed as part of a Machine Learning/Data Analytics learning project.
+https://diabetespredictionusinglogisticregressionml.streamlit.app/
