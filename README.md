@@ -1,4 +1,5 @@
 # Diabetes Prediction using Logistic Regression
+https://diabetespredictionusinglogisticregressionml.streamlit.app/
 
 ## Project Overview
 
