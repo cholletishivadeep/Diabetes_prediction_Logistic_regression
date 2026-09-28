@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load trained model
-model = joblib.load("diabetes_logistic_model.pkl")
+model = joblib.load("Diabetes_logistic_model.pkl")
 
 st.title("Diabetes Prediction App")
 st.write("Enter the patient information to predict the diabetes outcome.")
